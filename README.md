@@ -22,8 +22,12 @@ Este projeto é um CRUD simples para gerenciamento de alunos, desenvolvido com *
 ## Conhecimentos fundamentais reforçados nesse projeto: Anotations do Spring JPA
 
 @RestController – define um controller REST
+
 @RequestMapping, @GetMapping, @PostMapping – mapeiam rotas
+
 @Autowired – injeta dependências
+
 @Service, @Repository – marca classes de serviço e repositório
+
 @Getter @Setter - redução de código nas classes
 
